@@ -7,4 +7,4 @@ This is a C++ program that generates random mazes and represents a maze and its 
 make testsquaremaze
 ./testsquaremaze
 ```
-The resulting maze and its solution are 
+The resulting maze and its solution are solved.png and unsolved.png, respectively. 
